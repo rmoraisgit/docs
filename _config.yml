@@ -1,0 +1,16 @@
+# GitHub Pages - Jekyll Configuration
+title: Docs
+description: Documentação
+author: Rafa
+url: https://rafa.github.io/docs
+
+# Theme
+theme: minima
+
+# Markdown processor
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
