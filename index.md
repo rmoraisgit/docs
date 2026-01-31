@@ -9,7 +9,10 @@ Bem-vindo à sua documentação! Aqui você encontra guias e conceitos important
 
 ## 📖 Tópicos
 
-### [📘 React — A prop especial `children`](react-children.md)
+### [� Começando — Build & Rodar local](getting-started.md)
+Guia rápido para instalar dependências, rodar o servidor de desenvolvimento e gerar a build de produção de um projeto React (Create React App e Vite).
+
+### [�📘 React — A prop especial `children`](react-children.md)
 Aprenda tudo sobre a prop `children`, como funciona, por que é importante e as melhores práticas para usá-la.
 
 ### [📘 React Hooks — Rules of Hooks](react-rules-of-hooks.md)
