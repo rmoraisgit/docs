@@ -15,8 +15,12 @@ Guia rápido para instalar dependências, rodar o servidor de desenvolvimento e 
 ### [�📘 React — A prop especial `children`](react-children.md)
 Aprenda tudo sobre a prop `children`, como funciona, por que é importante e as melhores práticas para usá-la.
 
+### [🧩 TabButton — Config inicial](tab-button-initial-config.md)
+Exemplo do componente `TabButton`, comunicação entre componentes, uso de `children` e callbacks.
+
 ### [📘 React Hooks — Rules of Hooks](react-rules-of-hooks.md)
 Entenda as duas regras fundamentais para usar Hooks corretamente no React e evite bugs comuns.
 
-### [🧩 TabButton — Config inicial](tab-button-initial-config.md)
-Exemplo do componente `TabButton`, comunicação entre componentes, uso de `children` e callbacks.
+
+### [⚙️ useState — Controle de Tabs](useState-tabs.md)
+Implementação com `useState` para controlar abas e exemplos.
