@@ -248,11 +248,3 @@ O `TabButton` é um componente simples, reutilizável e desacoplado, que recebe 
 ```
 
 ---
-
-Se quiser, posso:
-- Gerar a **versão com `useState`**
-- Criar um **diagrama de fluxo**
-- Ou transformar isso num **README de projeto**
-
-É só dizer 👌
-```

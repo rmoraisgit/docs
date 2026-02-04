@@ -21,6 +21,8 @@ Exemplo do componente `TabButton`, comunicação entre componentes, uso de `chil
 ### [📘 React Hooks — Rules of Hooks](react-rules-of-hooks.md)
 Entenda as duas regras fundamentais para usar Hooks corretamente no React e evite bugs comuns.
 
-
 ### [⚙️ useState — Controle de Tabs](useState-tabs.md)
 Implementação com `useState` para controlar abas e exemplos.
+
+### [📝 Tab Content — Renderização Dinâmica](react-tab-content.md)
+Documentação do funcionamento do Tab Content, renderização dinâmica e padrão de dados no React.
