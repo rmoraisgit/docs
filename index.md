@@ -24,5 +24,8 @@ Entenda as duas regras fundamentais para usar Hooks corretamente no React e evit
 ### [⚙️ useState — Controle de Tabs](useState-tabs.md)
 Implementação com `useState` para controlar abas e exemplos.
 
+### [🎨 TabButton — className Condicional](tab-button-classname.md)
+Documentação focada no funcionamento do `className` do componente `TabButton`, conectando com o estado (`useState`) do `App`.
+
 ### [📝 Tab Content — Renderização Dinâmica](react-tab-content.md)
 Documentação do funcionamento do Tab Content, renderização dinâmica e padrão de dados no React.

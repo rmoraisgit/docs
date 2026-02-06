@@ -1,9 +1,3 @@
-Perfeito 👍
-Segue a **documentação completa em formato Markdown (`.md`)**, pronta para você salvar no projeto (ex: `TabButton.md` ou `components-tab-button.md`).
-
----
-
-````md
 # 📄 Documentação — Componente TabButton e Comunicação com App
 
 ## 📌 Visão Geral
