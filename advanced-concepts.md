@@ -14,6 +14,10 @@ Aqui você encontra tópicos mais avançados e padrões aprofundados sobre React
 ### 🎯 You Don't Need JSX (But It's Convenient)
 
 Esta documentação explica que **JSX não é obrigatório no React**. Internamente, o React utiliza `React.createElement`, e o JSX existe apenas como uma abstração sintática para facilitar a escrita do código.
+ 
+### 🧩 Elemento Raiz e Fragments
+
+Exploração das formas de retornar múltiplos elementos (`div`, `Fragment`, `<> </>`) e quando usar cada uma. [Veja detalhes](root-fragments.md)
 
 ---
 
