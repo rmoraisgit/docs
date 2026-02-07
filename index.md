@@ -29,3 +29,6 @@ Documentação focada no funcionamento do `className` do componente `TabButton`,
 
 ### [📝 Tab Content — Renderização Dinâmica](react-tab-content.md)
 Documentação do funcionamento do Tab Content, renderização dinâmica e padrão de dados no React.
+
+### [🔄 Renderização dinâmica com `map`](react-dynamic-render-map.md)
+Aprenda a renderizar componentes dinamicamente usando o método `map` e as melhores práticas com a propriedade `key` no React.
