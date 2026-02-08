@@ -16,4 +16,5 @@ plugins:
   - jekyll-sitemap
 
 # Header navigation - Limitar itens exibidos
-header_pages: []
+header_pages:
+  - index.md
