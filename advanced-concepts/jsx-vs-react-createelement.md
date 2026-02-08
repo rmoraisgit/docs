@@ -8,11 +8,6 @@ Exploração das formas de retornar múltiplos elementos (`div`, `Fragment`, `<>
 
 ---
 
-### 🧭 TabButton — Padrões de Design de Componente
-
-Breve comparação e guia prático sobre diferentes abordagens para implementar um `TabButton` em React. [Leia a documentação completa](advanced-concepts/tab-button-component-design-patterns.md)
-
-
 ## 🧩 Comparação das abordagens
 
 Ambas as formas abaixo geram exatamente a mesma interface:
