@@ -14,3 +14,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# Header navigation - Limitar itens exibidos
+header_pages:
+  - index.md
