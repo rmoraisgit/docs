@@ -4,7 +4,7 @@ Esta documentação explica que **JSX não é obrigatório no React**. Intername
  
 ### 🧩 Elemento Raiz e Fragments
 
-Exploração das formas de retornar múltiplos elementos (`div`, `Fragment`, `<> </>`) e quando usar cada uma. [Veja detalhes](root-fragments.md)
+Exploração das formas de retornar múltiplos elementos (`div`, `Fragment`, `<> </>`) e quando usar cada uma. [Veja detalhes](../basic-concepts/root-fragments.md)
 
 ---
 

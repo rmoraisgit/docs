@@ -37,4 +37,4 @@ Aprenda a renderizar componentes dinamicamente usando o método `map` e as melho
 
 ---
 
-[← Voltar para Home](index.md)
+[← Voltar para Home](../index.md)

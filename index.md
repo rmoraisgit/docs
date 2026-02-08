@@ -9,7 +9,7 @@ Bem-vindo à sua documentação! Aqui você encontra guias e conceitos important
 
 ## 📖 Seções
 
-### [📖 Conceitos Básicos](basic-concepts.md)
+### [📖 Conceitos Básicos](basic-concepts/basic-concepts.md)
 Todos os conceitos fundamentais e guias essenciais para começar com React.
 
 ### [🚀 Conceitos Avançados](advanced-concepts/advanced-concepts.md)
