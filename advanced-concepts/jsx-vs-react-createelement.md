@@ -1,16 +1,3 @@
----
-layout: default
-title: Conceitos Avançados
----
-
-# 🚀 Conceitos Avançados — React
-
-Aqui você encontra tópicos mais avançados e padrões aprofundados sobre React.
-
----
-
-## 📖 Tópicos
-
 ### 🎯 You Don't Need JSX (But It's Convenient)
 
 Esta documentação explica que **JSX não é obrigatório no React**. Internamente, o React utiliza `React.createElement`, e o JSX existe apenas como uma abstração sintática para facilitar a escrita do código.
@@ -20,6 +7,11 @@ Esta documentação explica que **JSX não é obrigatório no React**. Intername
 Exploração das formas de retornar múltiplos elementos (`div`, `Fragment`, `<> </>`) e quando usar cada uma. [Veja detalhes](root-fragments.md)
 
 ---
+
+### 🧭 TabButton — Padrões de Design de Componente
+
+Breve comparação e guia prático sobre diferentes abordagens para implementar um `TabButton` em React. [Leia a documentação completa](advanced-concepts/tab-button-component-design-patterns.md)
+
 
 ## 🧩 Comparação das abordagens
 
@@ -136,5 +128,3 @@ Apesar das vantagens, evitar JSX **não é recomendado** para projetos grandes:
 * Comunidade e ecossistema usam JSX como padrão
 
 ---
-
-[← Voltar para Home](index.md)
