@@ -22,4 +22,4 @@ Explora os padrões de composição em React usando `children`, repasse de props
 
 ---
 
-[← Voltar para Home](../index.md)
+[← Voltar para Home]({% link index.md %})

@@ -3,14 +3,11 @@ layout: home
 title: Home
 ---
 
-# 📚 Documentação React
+# 📚 Documentação
 
-Bem-vindo à sua documentação! Aqui você encontra guias e conceitos importantes sobre React.
+Bem-vindo à documentação! Explore os guias e referências disponíveis.
 
-## 📖 Seções
+## 📚 Tecnologias
 
-### [📖 Conceitos Básicos](basic-concepts/basic-concepts.md)
-Todos os conceitos fundamentais e guias essenciais para começar com React.
-
-### [🚀 Conceitos Avançados](advanced-concepts/advanced-concepts.md)
-Tópicos avançados e padrões aprofundados para levar seu conhecimento React ao próximo nível.
+### [⚛️ React](react/react.html)
+Aprenda tudo sobre React, desde conceitos básicos até padrões avançados de desenvolvimento. Guias práticos e exemplos de componentes.
