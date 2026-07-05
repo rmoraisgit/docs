@@ -11,3 +11,4 @@ Bem-vindo à seção de AWS Solutions Architect Associate. Aqui você encontrar�
 
 - [📖 Conceitos Básicos](basic-concepts/basic-concepts.html)
 - [⚖️ Load Balancers e Auto Scaling](load-balancers-e-auto-scalling/load-balancers-e-auto-scalling.html)
+- [📨 SQS, SNS, Kinesis, Active MQ](sqs-sns-kinesis-activemq/sqs-sns-kinesis-activemq.html)
