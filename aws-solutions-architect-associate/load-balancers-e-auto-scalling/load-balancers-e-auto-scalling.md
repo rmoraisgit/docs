@@ -9,6 +9,7 @@ Conteúdo relacionado a Load Balancers e Auto Scaling na AWS.
 
 ## 📚 Tópicos
 
-- [� Introdução a Load Balancer](introducao-load-balancer/introducao-load-balancer.html)
-- [�📊 Diferenças entre Scaling Up e Scaling Out](diferencas-scalling-up-e-out/diferencas-scalling-up-e-out.html)
+- [🔀 Tipos de Load Balancers](tipos-de-load-balancers/tipos-de-load-balancers.html)
+- [🎯 Introdução a Load Balancer](introducao-load-balancer/introducao-load-balancer.html)
+- [📊 Diferenças entre Scaling Up e Scaling Out](diferencas-scalling-up-e-out/diferencas-scalling-up-e-out.html)
 - [🚀 EC2 Auto Scaling](ec2-auto-scalling/ec2-auto-scalling.html)
